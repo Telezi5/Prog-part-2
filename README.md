@@ -19,4 +19,4 @@ this is an updated version of my welcome banner
 ║     Enter your name above and click 'Start Chat' to begin    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-This is my final coomit
+This is my final commit

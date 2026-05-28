@@ -2,7 +2,7 @@
 This is my final repository for prog part 2 
 Most advanced version as well as one that is almost ready for submission
 
-this is my new welcome banner 
+this is an updated version of my welcome banner 
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║    ██████╗      ██████╗  ██████╗ ████████╗                   ║

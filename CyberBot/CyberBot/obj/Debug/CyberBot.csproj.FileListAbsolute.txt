@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CyberBot\CyberBot\bin\Debug\CyberBot.exe.config
+C:\Users\User\source\repos\CyberBot\CyberBot\bin\Debug\CyberBot.exe
+C:\Users\User\source\repos\CyberBot\CyberBot\bin\Debug\CyberBot.pdb
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\App.g.cs
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot_MarkupCompile.cache
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.g.resources
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.Properties.Resources.resources
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.exe
+C:\Users\User\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.pdb
